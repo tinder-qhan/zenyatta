@@ -1,6 +1,6 @@
 ### Practice Go
 
-Question 1
+Question 1 (go1.go)
 
 ```
 Given two strings of numbers contains only 4's and 7's,
@@ -24,7 +24,7 @@ str2 := "77774"
 minOps(str1, str2) => "1 swaps, 3 replaces"
 ```
 
-Question 2
+Question 2 (go2.go)
 
 ```
 Given a valide JSON string, write a prettyPrint function to
